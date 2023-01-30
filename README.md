@@ -1,4 +1,4 @@
-# Assignment 1: Introduce Yourself
+## Assignment 1: Introduce Yourself
 
 ## Instructions
 
